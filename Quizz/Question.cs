@@ -26,7 +26,7 @@ namespace Quizz
 
         public void PrintQuestion()
         {
-            Console.Write($"Kysymys: {Program.KysymyksenNumero}. ");
+            Console.Write($"Kysymys: {Peli1.KysymyksenNumero}. ");
             Console.Write($"{KysymyksenKysymys} - (oikein/väärin) ");
         }
     }

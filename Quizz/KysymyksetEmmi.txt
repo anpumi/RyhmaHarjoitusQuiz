@@ -1,0 +1,30 @@
+Onko Suomen eteläisin kaupunki Hanko?|Ei|Kyllä|Kyllä
+Miltä rajanylityspaikalta pääset junalla Pietariin?|Vainikkala|Virojoki|Vainikkala
+Mikä näistä on pohjoisin?|Kolari|Inari|Inari
+Mikä metropysäkki on juuri ennen Keilaniemeä, kun tulet Helsingin suunnasta?|Koivusaari|Karhusaari|Koivusaari
+Onko Utsjoki Euroopan pohjoisin kunta?|Kyllä|Ei|Kyllä
+Mikä laskettelukeskus sijaitsee Kittilässä?|Ylläs|Levi|Levi
+Missä on Suomen korkein kohta?|Halti|Saana|Halti
+Kuinka syvä Päijänne on syvimmästä kohdasta?|>80m|<80m|<80m
+Kuinka pitkä matka suunnilleen on Helsingistä Tallinnaan?|90km|190km|90km
+Kuinka monta prosenttia Suomen pinta-alasta on metsää?|60|80|80
+Onko Suomessa Äteritsiputeritsipuolilautatsijänkä?|Kyllä|Ei|Kyllä
+Paljonko saunojia mahtuu kerralla lauteille Otanimen kuuluisassa saunassa?|300|100|300
+Mikä on Suomen yleisin nimi Järvelle?|Suurjärvi|Saarijärvi|Saarijärvi
+Mikä on Suomen vanhin kaupunki?|Helsinki|Turku|Turku
+Milloin Helsingistä tuli Suomen pääkaupunki?|1899|1812|1812
+Paljonko on painanut Suomen ennätyskala (sampi)?|151kg|177kg|177kg
+Minä vuonna Suomessa esitettiin ensimmäinen tv-lähetys?|1955|1965|1955|
+Onko Suomessa enemmän miehiä vai naisia?|Miehiä|Naisia|Naisia
+Kuinka monella prosentilla suomalaisella on ruskeat silmät?|20|11|11
+Kuinka paljon suomalainen heittää keskimäärin ruokaa roskiin vuodessa?|9kg|23kg|23kg
+Kuinka paljon suomalaiset lähettävät joulukortteja?|17milj|37milj|37milj
+Kuinka monta prosenttia kasvaa Suomessa kuohuviinien myynti vapun aikaan?|99|439|439
+Kuinka monta Googlehakua suomalaiset tekevät päivässä?|9milj|30milj|30milj
+Mikä on Suomessa yleisin auton väri?|Valkoinen|Harmaa|Harmaa
+Kuka on 2018 Suomen kuunnelluin artisti?|JVG|Cheek|Cheek
+Minkä paikkakunnan postinumero on 99990?|Rovaniemi|Nuorgam|Nuorgam 
+Minkä paikkakunnan postinumero on 33101?|Joensuu|Tampere|Tampere
+Minkä paikkakunnan postinumero on 70300?|Kuopio|Kemi|Kuopio
+Onko Suomessa Urho Kekkosen kansallispuisto?|Kyllä|Ei|Kyllä
+Kauan ajaa pyörällä Google Mapsin mukaan Leville?|n.50h|n.80h|n.50h

@@ -5,24 +5,17 @@ using System.Text;
 
 namespace MiniProjekti
 {
-    class Program
+    public class Peli2
     {
-        static string nimi;
+        public static string nimi;
         
-        static void Main(string[] args)
-        {
-
-            Console.Write("Anna nimesi: ");
-            nimi = Console.ReadLine(); 
-            Kysymysgeneraattori();
-        }
                 
-        private static void Kysymysgeneraattori()
+        public static void Kysymysgeneraattori()
         {
             
             List<string[]> kysymykset = new List<string[]>();
 
-            StreamReader sr = new StreamReader(@"C:\Users\erone\Documents\Academy tehtävät\Viikko 1\Viikko1 Miniprojekti\MiniProjekti\kysymykset.CSV", Encoding.GetEncoding("iso-8859-1"));
+            StreamReader sr = new StreamReader(@"C:\Users\Annukka\source\repos\Week4\Quizz\Quizz\kysymyksetMatti.CSV", Encoding.GetEncoding("iso-8859-1"));
 
             string rivi = sr.ReadLine();
             while (rivi != null)

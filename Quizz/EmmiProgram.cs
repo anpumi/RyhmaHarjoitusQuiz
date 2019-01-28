@@ -6,11 +6,12 @@ using System.Text;
 
 namespace Kysymykset
 {
-    class Program
+    public class Peli3
     {
-        static void Main(string[] args)
+        public static void TekeeJuttuja()
         {
             string menu;
+
             do
             {
 
@@ -72,10 +73,10 @@ namespace Kysymykset
 
             } while (menu != "2");
 
-            void ListanLatausJaSekoitus()
+           void ListanLatausJaSekoitus()
             {
                 List<string> järjestyksessä;
-                using (StreamReader lataus = new StreamReader("c://work//kysymykset.txt", Encoding.GetEncoding("iso-8859-1")))
+                using (StreamReader lataus = new StreamReader("C://Users//Annukka//source//repos//Week4//Quizz//Quizz//KysymyksetEmmiCopy.txt", Encoding.GetEncoding("iso-8859-1")))
                 {
                     järjestyksessä = new List<string>();
                     string rivi = lataus.ReadLine();

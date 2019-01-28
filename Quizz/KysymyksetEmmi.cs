@@ -32,13 +32,13 @@ namespace Kysymykset
 
         public void lueKysymykset()
         {
-            StreamReader lukija = new StreamReader(@"c:\work\kysymykset2.txt", Encoding.GetEncoding("iso-8859-1"));
+            StreamReader lukija = new StreamReader(@"C:\Users\Annukka\source\repos\Week4\Quizz\Quizz\kysymyksetEmmi.txt", Encoding.GetEncoding("iso-8859-1"));
 
             string rivi = lukija.ReadLine();
             luetutKysymykset = new List<Kysymykset>();
             while (rivi != null)
             {
-                string[] vaihtoehdot = rivi.Split("|");
+                string[] vaihtoehdot = rivi.Split('|');
                 Kysymykset k = new Kysymykset();
                 k.Kysymys = vaihtoehdot[0];
                 k.Kyllä = vaihtoehdot[1];
